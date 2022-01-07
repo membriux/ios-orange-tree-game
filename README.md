@@ -9,6 +9,7 @@ Orange Tree (Angry Birds clone) Steps (condensed steps to creating it):
 - Copy assets into project
 
 **2 Configure Scene**
+
 - Remove Actions.sks folder
 - Change device orientation to landscape right/left only 
 - Update GameScene.sksby deleting label and changing width=1334, height=750, anchors=0
@@ -18,6 +19,7 @@ Orange Tree (Angry Birds clone) Steps (condensed steps to creating it):
 - Add your OrangeTree.png on top of background (Z position= –1, name=Tree)
 
 **3 Flying Fruit**
+
 On GameViewController.swift  if let scene = SKScene(fileNamed: "GameScene") { and change it to if let scene = GameScene(fileNamed: "GameScene") {
 Create new Orange.swift file (attached here)
 
