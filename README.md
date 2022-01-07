@@ -2,7 +2,7 @@
 
 Orange Tree (Angry Birds clone) Steps (condensed steps to creating it):
 
-**1 Setup **
+**1 Setup**
 
 - Download assets
 - Create “New Game”
