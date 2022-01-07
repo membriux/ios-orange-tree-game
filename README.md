@@ -2,6 +2,8 @@
 
 Orange Tree (Angry Birds clone) Steps (condensed steps to creating it):
 
+![preview](https://user-images.githubusercontent.com/20372706/148615978-68cf58da-1875-41f4-adae-c722bfddf0ac.gif)
+
 **1 Setup**
 
 - Download assets
