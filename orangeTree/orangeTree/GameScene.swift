@@ -17,7 +17,7 @@ class GameScene: SKScene {
     override func didMove(to view: SKView) {
         orangeTree = childNode(withName: "tree") as? SKSpriteNode
         
-        // Configure shapeNode (the drawing path)
+        // Configure shapeNode (the line drawing path)
         shapeNode.lineWidth = 20
         shapeNode.lineCap = .round
         shapeNode.strokeColor = UIColor(white: 1, alpha: 0.3)
