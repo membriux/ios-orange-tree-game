@@ -25,5 +25,5 @@ Orange Tree (Angry Birds clone) Steps (condensed steps to creating it):
 On GameViewController.swift  if let scene = SKScene(fileNamed: "GameScene") { and change it to if let scene = GameScene(fileNamed: "GameScene") {
 Create new Orange.swift file (attached here)
 
-All credits due and to the tutorial link below. I made it using this tutorial.
+All credits due to the tutorial link below. I made it using this tutorial.
 https://makeschool.org/mediabook/oa/tutorials/learn-to-clone-angry-birds-with-spritekit-and-swift-4/
